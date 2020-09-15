@@ -1,0 +1,107 @@
+body {
+    background-color: black;
+    margin-top: -5px;
+    margin-left: -5px;
+    margin-right: -5px;
+}
+
+.cu2 {
+    width: 150px;
+    float: left;
+}
+
+.cu21 {
+    width: 150px;
+
+    float: right;
+    vertical-align: middle;
+    display: block;
+}
+
+.jo {
+    color: #E27F1C;
+    vertical-align: middle;
+    margin-top: none;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 25px;
+    font-family: arial;
+}
+
+.ditbenikhier {
+    color:  #F3E03C;
+    vertical-align: middle;
+    margin-top: -20px;
+    text-align: center;
+    font-size: 25px;
+    font-family: arial;
+}
+
+.me {
+    width: 200px;
+    height: 650px;
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-left: 20px solid #FFFFFF;
+  border-right: 20px solid #FFFFFF;
+  border-top: 3px solid #FFFFFF;
+  border-bottom: 13px solid #FFFFFF;
+}
+
+  .ergens {
+    color: red;
+    vertical-align: middle;
+    margin-top: -18px;
+    text-align: center;
+    font-size: 25px;
+    font-family: arial;
+  }
+
+  .melk {
+      float: left;
+      margin-top: -600px;
+      width: 300px;
+  }
+
+  .habbo {
+    float: left;
+    margin-top: -150px;
+    width: 300px;
+}
+
+#verticalelijn {
+    width: 10px;
+    height: 765px;
+    background-color: silver;
+    float: left;
+    margin-left: 150px;
+}
+
+#verticalelijn2 {
+    width: 10px;
+    height: 765px;
+    background-color: silver;
+    float: right;
+    margin-right: 150px;
+}
+
+.panfu {
+    float: right;
+    width: 300px;
+    margin-top: -600px;
+    margin-left: 10px;
+}
+
+.ds {
+    float: right;
+    margin-top: -390px;
+    width: 300px;
+}
+
+.beyblade {
+    float: right;
+    margin-top: -169px;
+    width: 300px;
+}
